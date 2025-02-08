@@ -1,3 +1,3 @@
 # Predict DNA mismatch repair efficiency using RNA LL embeddings (To be updated)
-![rnabert-pred-dna-repair-efficiency
-](./pred_eff.png)
+![pre_eff
+](./pred_eff.pdf)
